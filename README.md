@@ -1,5 +1,5 @@
 # ctis164-project3
-Lighting effects simulating program that i made in the ctis164 course
+Lighting effects simulating program prepared for ctis164
 
 it has sinusodial, linear and circular movements.
 
